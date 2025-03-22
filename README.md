@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-out-reverse-of-a-number
